@@ -17,4 +17,4 @@ Usage:
 3. Sliders allow user to change 2 variables (Amplitude, Frequency) of the wave
 4. Changes to wave form and wave plot will be displayed accordingly
 
-Slidify Presentation: 
+Slidify Presentation: http://kyletankl.github.io/devdataproduct_slidify/
